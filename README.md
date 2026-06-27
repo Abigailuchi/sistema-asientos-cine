@@ -54,6 +54,7 @@ correctamente.
 ├── documento_proyecto.docx     # Documento: introduccion, objetivos,
 │                                # metodologia, resultados, reflexion
 │                                # y conclusiones
+├── presentacion_final.pptx     # Presentacion final del proyecto
 └── README.md
 ```
 
@@ -67,7 +68,8 @@ correctamente.
 4. Usar el menu numerico (1-6) para navegar por las opciones
 
 ## Tecnologias y conceptos aplicados
-Variables, operadores, bucles (`for`, `while`), condicionales
-(`if/elif/else`), estructuras de datos (diccionarios), funciones,
-manejo de errores (`try/except`) y control de versiones con
-Git/GitHub.
+Pasos para la resolucion de problemas, entorno de programacion y
+depuracion, variables, operadores, diagramas de flujo, condicionales
+(`if/elif/else`), bucles (`for`, `while`) y sus alteradores (`break`,
+`continue`), estructuras de datos (listas y diccionarios), funciones
+con parametros, y control de versiones con Git/GitHub.
